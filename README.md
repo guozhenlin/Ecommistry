@@ -81,9 +81,14 @@ After that, if your website is in the production mode, please run the command af
 Finally, coming back to Magento 2 admin to check if Ecommistry Productlist extension is installed properly.
 
 After installed success, you will find additional field called 'Handle Products Display' in store -> configuration -> customer ->customer, shown in following image:
+<img src="https://github.com/guozhenlin/Ecommistry/blob/master/doc/image/Limited%20Product%20Number%20Show%20Setting.png"/>
 
+Each product has newly created attribute called "Display handle", you can enable it in following image:
+<img src="https://github.com/guozhenlin/Ecommistry/blob/master/doc/image/product%20admin.png"/>
 
-If you try to access it without login in frontend, it will redirect you to the login page, after login successful, it will have additional tab called 'Product List' in customer account page
+If you try to access it without login in frontend, it will redirect you to the login page, after login successful, it will have additional tab called 'Product List' in customer account page, which will have the slider to show the selected products. Shown in following image:
+<img src="https://github.com/guozhenlin/Ecommistry/blob/master/doc/image/Customer%20account%20page.png"/>
+
 
 
 
