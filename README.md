@@ -89,6 +89,14 @@ Each product has newly created attribute called "Display handle", you can enable
 If you try to access it without login in frontend, it will redirect you to the login page, after login successful, it will have additional tab called 'Product List' in customer account page, which will have the slider to show the selected products. Shown in following image:
 <img src="https://github.com/guozhenlin/Ecommistry/blob/master/doc/image/Customer%20account%20page.png"/>
 
+If you want, you can enable it to different type of slider show according to usage in http://kenwheeler.github.io/slick/
+
+The demo information will be added soon. 
+Frontend Demo Url:
+Backend Demo Url:
+admin demo user:
+admin demo password: 
+
 
 
 
