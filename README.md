@@ -53,12 +53,12 @@ php bin/magento deploy:mode:set developer
 
 You can download as "zip" file and unzip Ecommistry ProductList extension or clone this repository by the following commands:
 
-Use SSH: git clone git@github.com:/x.git
+Use SSH: git clone git@github.com:guozhenlin/Ecommistry.git
 
-Use HTTPS: git clone https://github.com/x.git
+Use HTTPS: git clone https://github.com/guozhenlin/Ecommistry.git
 
 When you have completed, you will have a folder containing all files of this extension. 
-Then, please create the folder <strong>app/code/Ecommistry/Productlist</strong> and copy all files which you have downloaded to that folder.
+Then, please create the folder <strong>app/code/Ecommistry/Productlist</strong> and copy specific files to that folder.
 
  After that, please uploaded the <strong>app</strong> folder to your Magento 2 root folder.
 
@@ -68,9 +68,6 @@ Then you open a terminal application, change to magento root directory and use c
 cd [magento 2 root folder]
 
 php bin/magento setup:upgrade
-
-Example :
-
 
 Wait a second to complete installation process:
 
